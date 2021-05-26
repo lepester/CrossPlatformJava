@@ -15,7 +15,6 @@ import javafx.scene.paint.RadialGradient;
 import javafx.scene.paint.Stop;
 import javafx.scene.shape.Rectangle; 
 import javafx.stage.Stage;
-import javafx.scene.image.Image;
 
 public class Java_lab_8 extends Application {
 

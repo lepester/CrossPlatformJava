@@ -1,0 +1,21 @@
+
+‡
+java:S1192p"eDefine a constant instead of duplicating this literal "Please select a person in the table." 3 times.(Â„ÏŒúÿÿÿÿ8¼Û«Áš/
+u
+java:S1192o"SDefine a constant instead of duplicating this literal "No Person Selected" 3 times.(Êõëıøÿÿÿÿ8½Û«Áš/
+o
+java:S1192n"MDefine a constant instead of duplicating this literal "No Selection" 3 times.(²²©³üÿÿÿÿ8¾Û«Áš/
+S
+java:S3655´"5Call "result.isPresent()" before accessing the value.(ÃÇûŞ8·¢­Áš/
+£
+java:S1186."€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ËìÀùıÿÿÿÿ8ÛÒòÀš/
+]	java:S1255"<This block of commented-out lines of code should be removed.(ˆå¶šûÿÿÿÿ8ãÒòÀš/
+^	java:S125"<This block of commented-out lines of code should be removed.(Ü·‚Éúÿÿÿÿ8ñÒòÀš/
+P
+java:S1135"2Complete the task associated to this TODO comment.(´¯èê8ñÒòÀš/
+?
+java:S1116”"Remove this empty statement.(Å˜×“ÿÿÿÿÿ8óÒòÀš/
+:
+java:S1116•"Remove this empty statement.(‡Ü¯ú8óÒòÀš/
+V	java:S106¯"9Replace this use of System.out or System.err by a logger.(ˆè­¦8üÒòÀš/
+[	java:S106±"9Replace this use of System.out or System.err by a logger.(ÎÈ¨—øÿÿÿÿ8ıÒòÀš/
