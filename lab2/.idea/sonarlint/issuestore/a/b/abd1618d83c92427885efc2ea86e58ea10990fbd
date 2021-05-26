@@ -1,0 +1,16 @@
+
+=
+java:S2189""Correct this loop's end condition.(¢¥Ùòüÿÿÿÿ
+R
+java:S1854)"=Remove this useless assignment to local variable "maxlength".(ÿ÷ğv
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ş¶ÜÈ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Õéû
+S	java:S106"9Replace this use of System.out or System.err by a logger.(–ÈÖşÿÿÿÿ
+T
+java:S2251"9"j" is incremented and will never reach "stop condition".(¢¥Ùòüÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(ééÀïûÿÿÿÿ
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(ñ‚‰8š„Äš/
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(×•œ²8›„Äš/
+U	java:S106."9Replace this use of System.out or System.err by a logger.(•Ö ü8›„Äš/
+C
+java:S1481)".Remove this unused "maxlength" local variable.(ÿ÷ğv
